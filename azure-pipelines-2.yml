@@ -10,7 +10,7 @@ pool:
   name: 'Anjal'
 
 variables:
-  solution: 'user_registration'
+  solution: 'user_registration.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
   publishPath: '$(build.artifactStagingDirectory)\WebApp'
